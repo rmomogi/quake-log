@@ -16,6 +16,8 @@ Here are the technologies used in this project.
 >    $ bundle install
 * To run the project:
 >    $ ruby log_parser.rb ./log/game.log
+* To run rspec:
+>    $ rspec
 
 ## Versioning
 
