@@ -21,4 +21,4 @@ Here are the technologies used in this project.
 
 ## Versioning
 
-1.0
+1.0.1
